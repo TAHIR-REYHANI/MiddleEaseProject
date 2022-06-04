@@ -1,0 +1,96 @@
+#navana{
+    background-color: #240a11;
+}
+p {
+    margin-top: 50px;
+    margin-bottom: 1rem;
+}
+.anacontainer{
+    /* border: 1px solid black; */
+    /* border-radius: 50px; */
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#image{
+    border-radius: 100px;
+}
+.card-text{
+    margin-top: 0;
+    text-align: center;
+}
+
+#oyuncular{
+    margin-top: 0;
+}
+.oyismi{
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid blue;
+}
+.players{
+    /* border-top: 2px solid black; */
+    width: 83%;
+    margin-left: 100px;
+    padding-top: 10px;
+    border: none;
+}
+
+
+span{
+    font-size: 30px;
+    color: red;
+}
+#stretched2Metin{
+    padding-left: 50px;
+}
+#container{
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+}
+#stretched{
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+}
+#accordionFlushExample{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+#span_m{
+    color: red;
+}
+/* .footer_social, .footer_sponsors {
+    border-top: 1px solid #d3d3d3;
+}
+.footer_social {
+    padding-top: 41px;
+    padding-bottom: 41px;
+    border-bottom: 1px solid #d3d3d3;
+} */
+.hameş {
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    background-image: linear-gradient(to top, rgb(195, 0, 0), rgb(255, 255, 255));
+    
+}
+.hameş h4 {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+.hameş p{
+    color: black;
+}
+#ta{
+    color: blue;
+}
+#simge{
+    width: 30px;
+    height: 5px;
+    margin: 10px;
+    color: blue;
+}
